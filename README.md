@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ammaraly
 - 👀 I’m interested in backend, frontend, machine learning, AI, code optimization and all types of programming.
-- 🌱 I’m currently learning **Angular**, **Laravel** & **Spring**.
+- 🌱 I’m currently learning **React**, **Nest** & **Aws**.
 - 💞️ I’m looking to collaborate on any projects involving **Angular**, **Laravel** or **Spring**
 - 📫 You can reach me on LinkedIn: https://www.linkedin.com/in/mammarali98/
 
